@@ -1,0 +1,10 @@
+# Virtual environments
+.venv/
+venv/
+
+# Secrets and local config
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
